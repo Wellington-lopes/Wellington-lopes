@@ -5,5 +5,5 @@
 - 👯 Estou a procura para colaborar e aprender em projetos que envolvam front-end
 - 📫 Contato: wellington.slopes1991@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Criador do DevReset no Instagram;
+- ⚡ Criador do Dev Reset (@devreset) no Instagram;
 
