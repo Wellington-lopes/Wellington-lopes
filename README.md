@@ -7,7 +7,7 @@
 
 🔭 Atualmente estou trabalhando com front-end e back-end;
 
-🌱 Estou estudando: Html, CSS, JavaScript e Java;
+🌱 Estou estudando: Html, CSS, JavaScript e Python;
 
 👯 Estou a procura para colaborar e aprender em projetos que envolvam front-end e back-end;
 
