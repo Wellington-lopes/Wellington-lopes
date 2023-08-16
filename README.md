@@ -27,6 +27,6 @@
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-<img src="https://camo.githubusercontent.com/dd46781e065b939214e9934cd0508f8310a33bd0a96a470face7fdefbe28082b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d62616e676e677579656e31767339266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Wellington-lopes" data-canonical-src="https://komarev.com/ghpvc/?username=Wellington-lopes&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
+<img src=" alt="Wellington-lopes" data-canonical-src="https://komarev.com/ghpvc/?username=Wellington-lopes&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 
 </div>
