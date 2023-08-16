@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-soares-lopes-68b523a0)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devreset)
 
-<div style="display: inline_block"; max-width: 100%; height="180em><br>
+<div style="display: inline_block" max-width: 100% height="180em"><br>
 ![Wellington Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellington-lopes&show_icons=true&theme=tokyonight) 
 ![Wellington Lopes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-lopes&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight) 
 </div>
