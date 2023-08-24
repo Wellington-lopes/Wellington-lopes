@@ -6,9 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devreset)
 
 ![Wellington Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellington-lopes&show_icons=true&theme=tokyonight) 
-![Wellington Lopes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-lopes&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight) 
-
-![Wellington Lopes GitHub stats]<img height=200 width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-lopes&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" alt="Wellington Lopes's Language stats" />
+![Wellington Lopes GitHub stats]<img height=500 max-width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-lopes&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" alt="Wellington Lopes's Language stats" />
 </a>
 
 🔭 Atualmente estou trabalhando com front-end e back-end;
