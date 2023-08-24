@@ -8,6 +8,9 @@
 ![Wellington Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellington-lopes&show_icons=true&theme=tokyonight) 
 ![Wellington Lopes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-lopes&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight) 
 
+<img height=200 width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-lopes&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" alt="Wellington Lopes's Language stats" />
+</a>
+
 🔭 Atualmente estou trabalhando com front-end e back-end;
 
 🌱 Estou estudando: Html, CSS, JavaScript e Python;
