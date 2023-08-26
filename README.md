@@ -9,24 +9,18 @@
 ![Wellington Lopes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-lopes&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight)
 
 🔭 I'm currently working with frontend and backend;
-🔭 Atualmente estou trabalhando com front-end e back-end;
 
 🌱 I'm studying: Html, CSS, JavaScript and Python;
-🌱 Estou estudando: Html, CSS, JavaScript e Python;
 
 :octocat: I'm looking to collaborate and learn on projects involving front-end and back-end;
-:octocat: Estou a procura para colaborar e aprender em projetos que envolvam front-end e back-end;
 
 📫 Contact: wsoaresllopes@gmail.com;
-📫 Contato: wsoaresllopes@gmail.com ;
 
 😄 Pronouns: he / him;
-😄 Pronouns: ele/dele;
 
 ⚡ Creator of Dev Reset (@devreset) on Instagram;
-⚡ Criador do Dev Reset (@devreset) no Instagram;
 
-## Technologies I use in my day / Tecnologias que uso no meu dia:  
+## Technologies I use in my day 
 
 <div style="display: inline_block"><br>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
