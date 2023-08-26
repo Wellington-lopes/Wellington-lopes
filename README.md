@@ -15,7 +15,6 @@
 🌱 Estou estudando: Html, CSS, JavaScript e Python;
 
 :octocat: I'm looking to collaborate and learn on projects involving front-end and back-end;
-
 :octocat: Estou a procura para colaborar e aprender em projetos que envolvam front-end e back-end;
 
 📫 Contact: wsoaresllopes@gmail.com;
