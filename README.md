@@ -11,11 +11,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-lopes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
     
-🔭 I'm currently working with frontend and backend;
+🔭 I'm currently working with Data Science and Backend;
 
-🌱 I'm studying: Html, CSS, JavaScript and Python;
+🌱 I'm studying: SQL, Python, Power BI and Java;
 
-:octocat: I'm looking to collaborate and learn on projects involving front-end and back-end;
+:octocat: I'm looking to collaborate and learn on projects involving Data Science and Backend;
 
 📫 Contact: wsoaresllopes@gmail.com;
 
